@@ -1,18 +1,18 @@
-# 🍕 Pizza Sales Analysis Project
+#  Pizza Sales Analysis Project
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on analyzing pizza sales data to uncover key business insights using **SQL** and **Excel**.  
 The analysis helps understand sales performance, customer ordering behavior, and product trends, which can support better business decision-making.
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 - **SQL** – Data querying, aggregation, and KPI calculation  
 - **Microsoft Excel** – Data visualization and dashboard creation  
 
 ---
 
-## 📊 Key Business KPIs Analyzed
+##  Key Business KPIs Analyzed
 - Total Revenue  
 - Average Order Value  
 - Total Orders  
@@ -21,7 +21,7 @@ The analysis helps understand sales performance, customer ordering behavior, and
 
 ---
 
-## 📈 Analysis Performed Using SQL
+##  Analysis Performed Using SQL
 - Daily trend of total orders  
 - Hourly trend of orders  
 - Percentage of sales by pizza category  
@@ -32,7 +32,7 @@ The analysis helps understand sales performance, customer ordering behavior, and
 
 ---
 
-## 📂 Project Files Description
+##  Project Files Description
 - **pizza_sales data_set.csv**  
   Raw dataset containing pizza sales transaction data.
 
@@ -47,7 +47,7 @@ The analysis helps understand sales performance, customer ordering behavior, and
 
 ---
 
-## 📌 Insights & Outcomes
+##  Insights & Outcomes
 - Identified peak order days and hours  
 - Found best and worst performing pizzas  
 - Analyzed customer purchase patterns  
@@ -55,7 +55,7 @@ The analysis helps understand sales performance, customer ordering behavior, and
 
 ---
 
-## 🎯 Use Case
+##  Use Case
 This project demonstrates:
 - Practical SQL skills for data analysis  
 - Ability to translate raw data into meaningful insights  
@@ -63,11 +63,11 @@ This project demonstrates:
 
 ---
 
-## 👤 Author
+##  Author
 **Jay Sheladiya**  
 Aspiring Data Analyst | SQL | Excel | Data Analytics  
 
 ---
 
-## 🔗 GitHub Repository
+##  GitHub Repository
 Feel free to explore the project files and analysis in this repository.
